@@ -1,4 +1,5 @@
 # signal-scanner
+<img width="907" height="291" alt="Screenshot 2026-05-27 at 6 26 45 PM" src="https://github.com/user-attachments/assets/497ac520-d2cb-46e9-9617-16d55f62a06a" />
 
 A Python-based intelligence pipeline that automates pre-trade screening for institutional digital asset sales. By analyzing raw SEC EDGAR filings, this tool scores institutional funds based on their regulatory footprint, signaling intent to allocate and identifying mandate flexibility (IPS constraints).
 
