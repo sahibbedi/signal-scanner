@@ -48,4 +48,5 @@ Copy the contents of screener.py into a new cell.
 
 Run the cell. The interactive prompt and visual bar chart will render directly inside your browser.
 
-# Important Note on SEC API Access: This script is configured with a User-Agent header tied to a University of Illinois research project (sahibb2@illinois.edu). If you are cloning or forking this repository for your own use, please update line 7 in screener.py to reflect your own company name and email address. The SEC requires an accurate User-Agent for free API access. Please use with discretion or your IP/email may be rate-limited by the SEC.
+# Important Note on SEC API Access: 
+This script is configured with a User-Agent header tied to a University of Illinois research project (sahibb2@illinois.edu). If you are cloning or forking this repository for your own use, please update line 7 in screener.py to reflect your own company name and email address. The SEC requires an accurate User-Agent for free API access. Please use with discretion or your IP/email may be rate-limited.
