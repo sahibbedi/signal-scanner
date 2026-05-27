@@ -14,7 +14,7 @@ IPS Mandate Scanning (+10 to +20 points): The tool deep-scans the raw text of a 
 From my submission, some of the biggest constraints in client engagement revolve around timing and regulatory/mandate constraints. This tool fundamentally changes how the team prospects by moving the workflow from something more proactive in identifying any regulatory constraints per their public filings ahead of an engagement: 
 * **Solves the "IPS Constraint" Bottleneck:** A significant percentage of introductory calls end in a 4-to-6-week dead period because the fund has to check if their Investment Policy Statement (IPS) permits digital assets. By pre-screening public filings for mandate language, the team knows *before* the call if the fund has the structural flexibility to onboard.
 * **Identifies Immediate Intent:** By scraping 13F filings for specific Bitcoin ETF CUSIPs, the tool gives the sales team an instant, undeniable signal that a fund has cleared its internal hurdles and is actively allocating to the asset class.
-* **Prioritizes the Pipeline:** It replaces static CSV lists with an algorithmic scoring system, allowing Sales Directors to visually filter and rank hundreds of target funds to ensure their SDRs are calling the highest-probability targets first.
+* **Prioritizes the Pipeline:** It replaces static CSV lists with an algorithmic scoring system, allowing Sales Directors to visually filter and rank hundreds of target funds.
 
 # Output
 The scanner produces three deliverables:
